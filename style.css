@@ -445,8 +445,8 @@ nav .right a span {
     }
 
     .contact-section .group {
-        display: flex;
-        gap: 20px;
+        flex-direction: column;
+        /* gap: 20px; */
     }
 }
 
